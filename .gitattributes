@@ -1,0 +1,6 @@
+GEOG_Input/aerssa2d/00001-03520.00001-01601 filter=lfs diff=lfs merge=lfs -text
+GEOG_Input/aerssa2d/index filter=lfs diff=lfs merge=lfs -text
+GEOG_Input/angexp2d/00001-03520.00001-01601 filter=lfs diff=lfs merge=lfs -text
+GEOG_Input/angexp2d/index filter=lfs diff=lfs merge=lfs -text
+GEOG_Input/aod5502d/00001-03520.00001-01601 filter=lfs diff=lfs merge=lfs -text
+GEOG_Input/aod5502d/index filter=lfs diff=lfs merge=lfs -text
